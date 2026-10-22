@@ -1,4 +1,4 @@
-# Lakeshore Provisions Co. — Sales Performance Analysis (Power BI + SQL)
+# Lakeshore Provisions Co. Sales Performance Analysis | Power BI + SQL
 
 An end-to-end business analysis of a Midwest foodservice distributor: data cleaning, SQL analysis, a star-schema data model, and a 4-page Power BI dashboard that answers why growth slowed in one region and where the company is leaking revenue.
 
