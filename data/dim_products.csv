@@ -1,0 +1,53 @@
+product_id,product_name,category,supplier,list_price,unit_cost
+P1000,Whole Milk 1 Gal (6pk),Dairy,Prairie Farms Co-op,21.5,17.63
+P1001,2% Milk 1 Gal (6pk),Dairy,Prairie Farms Co-op,20.9,17.14
+P1002,Shredded Mozzarella 5lb,Dairy,Prairie Farms Co-op,17.8,14.6
+P1003,Cheddar Block 10lb,Dairy,Prairie Farms Co-op,38.4,31.49
+P1004,Butter Solids 36ct,Dairy,Prairie Farms Co-op,112.0,91.84
+P1005,Heavy Cream 1/2 Gal (6pk),Dairy,Prairie Farms Co-op,42.0,34.44
+P1006,Greek Yogurt 32oz (6pk),Dairy,Prairie Farms Co-op,27.5,22.55
+P1007,Sour Cream 5lb,Dairy,Prairie Farms Co-op,12.9,10.58
+P1008,Chicken Breast IQF 40lb,Meat & Poultry,Midwest Protein Partners,118.0,92.04
+P1009,Ground Beef 80/20 10lb,Meat & Poultry,Midwest Protein Partners,52.0,40.56
+P1010,Italian Beef Sliced 10lb,Meat & Poultry,Midwest Protein Partners,79.0,61.62
+P1011,Pork Shoulder 20lb,Meat & Poultry,Midwest Protein Partners,61.0,47.58
+P1012,Bacon Layflat 15lb,Meat & Poultry,Midwest Protein Partners,84.0,65.52
+P1013,Polish Sausage 10lb,Meat & Poultry,Midwest Protein Partners,46.0,35.88
+P1014,Turkey Breast Deli 2x9lb,Meat & Poultry,Midwest Protein Partners,88.0,68.64
+P1015,Chicken Wings 40lb,Meat & Poultry,Midwest Protein Partners,131.0,102.18
+P1016,Atlantic Salmon Fillet 10lb,Seafood,Great Lakes Seafood Supply,142.0,105.08
+P1017,Cod Loins 10lb,Seafood,Great Lakes Seafood Supply,115.0,85.1
+P1018,Shrimp 21/25 2lb (5pk),Seafood,Great Lakes Seafood Supply,96.0,71.04
+P1019,Lake Perch Fillet 5lb,Seafood,Great Lakes Seafood Supply,89.0,65.86
+P1020,Tilapia Fillet 10lb,Seafood,Great Lakes Seafood Supply,58.0,42.92
+P1021,Romaine Hearts 24ct,Produce,Heartland Fresh Produce,34.0,25.84
+P1022,Yellow Onions 50lb,Produce,Heartland Fresh Produce,24.5,18.62
+P1023,Russet Potatoes 50lb,Produce,Heartland Fresh Produce,26.0,19.76
+P1024,Roma Tomatoes 25lb,Produce,Heartland Fresh Produce,31.0,23.56
+P1025,Lemons 115ct,Produce,Heartland Fresh Produce,38.0,28.88
+P1026,Mixed Greens 3lb (4pk),Produce,Heartland Fresh Produce,29.5,22.42
+P1027,Green Peppers 1-1/9 Bu,Produce,Heartland Fresh Produce,33.0,25.08
+P1028,Avocados Hass 48ct,Produce,Heartland Fresh Produce,54.0,41.04
+P1029,French Fries 6x5lb,Frozen,NorthStar Frozen Foods,36.0,25.92
+P1030,Pizza Dough Balls 60ct,Frozen,NorthStar Frozen Foods,41.0,29.52
+P1031,Vanilla Ice Cream 3 Gal,Frozen,NorthStar Frozen Foods,29.0,20.88
+P1032,Mixed Vegetables 12x2.5lb,Frozen,NorthStar Frozen Foods,39.0,28.08
+P1033,Breaded Cheese Curds 4x3lb,Frozen,NorthStar Frozen Foods,57.0,41.04
+P1034,Tater Tots 6x5lb,Frozen,NorthStar Frozen Foods,38.5,27.72
+P1035,All-Purpose Flour 50lb,Dry Goods,Lakeview Pantry Wholesale,23.0,16.1
+P1036,Penne Pasta 2x10lb,Dry Goods,Lakeview Pantry Wholesale,19.5,13.65
+P1037,Long Grain Rice 50lb,Dry Goods,Lakeview Pantry Wholesale,34.0,23.8
+P1038,Tomato Sauce #10 (6ct),Dry Goods,Lakeview Pantry Wholesale,28.0,19.6
+P1039,Canola Oil 35lb,Dry Goods,Lakeview Pantry Wholesale,44.0,30.8
+P1040,Sugar Granulated 50lb,Dry Goods,Lakeview Pantry Wholesale,36.0,25.2
+P1041,Giardiniera Hot 1 Gal (4ct),Dry Goods,Lakeview Pantry Wholesale,48.0,33.6
+P1042,Bottled Water 16oz (24pk),Beverages,Lakeview Pantry Wholesale,6.2,4.15
+P1043,Cold Brew Concentrate 1 Gal (2pk),Beverages,Lakeview Pantry Wholesale,38.0,25.46
+P1044,Orange Juice 1/2 Gal (8pk),Beverages,Lakeview Pantry Wholesale,27.0,18.09
+P1045,Lemonade Mix 6x1 Gal,Beverages,Lakeview Pantry Wholesale,22.0,14.74
+P1046,Coffee Ground 2.5oz (42ct),Beverages,Lakeview Pantry Wholesale,44.0,29.48
+P1047,To-Go Container 9x9 (200ct),Paper & Disposables,Windy City Packaging,39.0,25.35
+P1048,Napkins Dinner (3000ct),Paper & Disposables,Windy City Packaging,31.0,20.15
+P1049,Nitrile Gloves L (1000ct),Paper & Disposables,Windy City Packaging,48.0,31.2
+P1050,Foil Sheets 12x10.75 (500ct),Paper & Disposables,Windy City Packaging,21.0,13.65
+P1051,Paper Cups 16oz (1000ct),Paper & Disposables,Windy City Packaging,42.0,27.3

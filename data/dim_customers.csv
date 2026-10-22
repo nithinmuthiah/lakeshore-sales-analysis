@@ -1,0 +1,421 @@
+customer_id,customer_name,segment,region_id,city,customer_since,rep_id
+C5000,Midway Hospitality Group,Restaurant Group,R4,Peoria,2019-02-24,SR108
+C5001,Logan Diner,Independent Restaurant,R3,Kenosha,2023-03-25,SR106
+C5002,Prairie College Dining,School/University,R5,Grand Rapids,2021-11-16,SR110
+C5003,Pilsen Dining Co.,Restaurant Group,R1,Evanston,2022-07-14,SR103
+C5004,Cedar Deli,Grocery/Deli,R1,Chicago,2022-06-28,SR101
+C5005,Lakeside Hospitality Group,Restaurant Group,R4,Bloomington,2021-03-03,SR108
+C5006,Prairie Lodge,Hotel,R1,Chicago,2023-07-05,SR102
+C5007,Fulton Medical Center,Hospital/Healthcare,R4,Springfield,2015-08-12,SR108
+C5008,Prairie Eatery,Independent Restaurant,R4,Champaign,2015-08-26,SR109
+C5009,Heritage College Dining,School/University,R5,Kalamazoo,2024-04-20,SR111
+C5010,Wicker Restaurant Group,Restaurant Group,R1,Skokie,2019-10-09,SR102
+C5011,Oak Street College Dining,School/University,R1,Naperville,2015-06-03,SR102
+C5012,Bridgeport Deli,Grocery/Deli,R4,Peoria,2018-12-08,SR109
+C5013,Northside Restaurant Group,Restaurant Group,R1,Evanston,2018-02-14,SR103
+C5014,Lincoln Taqueria,Independent Restaurant,R1,Schaumburg,2021-07-30,SR103
+C5015,Heritage Medical Center,Hospital/Healthcare,R1,Aurora,2019-07-23,SR101
+C5016,Calumet Regional Health System,Hospital/Healthcare,R2,Merrillville,2021-01-13,SR105
+C5017,Northside Events & Catering,Caterer,R1,Skokie,2021-09-16,SR102
+C5018,Cedar Tavern,Independent Restaurant,R4,Peoria,2023-08-10,SR108
+C5019,Maple Tavern,Independent Restaurant,R3,Racine,2017-10-06,SR107
+C5020,Northside Tavern,Independent Restaurant,R1,Evanston,2022-08-20,SR103
+C5021,Iron School District,School/University,R3,WAUKESHA,2022-07-17,SR107
+C5022,Midway Restaurant Group,Restaurant Group,R4,Bloomington,2019-11-05,SR108
+C5023,Golden Diner,Independent Restaurant,R1,Evanston,2020-06-13,SR101
+C5024,Southport Dining Co.,Restaurant Group,R3,Kenosha,2023-03-12,SR106
+C5025,Fulton Senior Living,Hospital/Healthcare,R4,Bloomington,2020-06-01,SR109
+C5026,Riverside Inn & Suites,Hotel,R3,Waukesha,2022-08-14,SR107
+C5027,Oak Street Dining Co.,Restaurant Group,R1,Naperville,2017-11-29,SR102
+C5028,Pilsen Restaurant Group  ,Restaurant Group,R1,Chicago,2024-07-06,SR103
+C5029,Prairie Grill,Independent Restaurant,R1,Skokie,2023-03-06,SR103
+C5030,Iron Diner,Indep. Restaurant,R1,Evanston,2019-03-01,SR102
+C5031,Golden Events & Catering,Caterer,R3,Kenosha,2021-05-05,SR106
+C5032,Iron Dining Co.,Restaurant Group,R3,Waukesha,2019-01-02,SR107
+C5033,Union Diner,Independent Restaurant,R1,Oak Park,2022-10-20,SR101
+C5034,Prairie Academy,School/University,R1,Schaumburg,2021-09-04,SR102
+C5035,Logan Dining Co.,Restaurant Group,R1,Cicero,2019-06-05,SR103
+C5036,Crescent Academy,School/University,R1,Cicero,2019-10-01,SR101
+C5037,Lincoln Tavern,Independent Restaurant,R2,Hammond,2019-04-11,SR105
+C5038,Second City Eatery,Independent Restaurant,R3,Milwaukee,2024-03-12,SR106
+C5039,Bridgeport Market,Grocery/Deli,R1,Evanston,2015-11-03,SR102
+C5040,Union Academy,School/University,R5,Kalamazoo,2019-05-20,SR110
+C5041,Heritage Academy,School/University,R5,Muskegon,2017-07-19,SR110
+C5042,Southport Hospitality Group,Restaurant Group,R3,Waukesha,2022-01-23,SR107
+C5043,Iron Fresh Market,Grocery/Deli,R1,Aurora,2017-08-10,SR100
+C5044,Second City Diner,Independent Restaurant,R2,Crown Point,2021-11-30,SR105
+C5045,Lantern Grill,Independent Restaurant,R3,Milwaukee,2017-12-06,SR107
+C5046,Pilsen Academy,School/University,R4,Champaign,2019-09-21,SR108
+C5047,Bridgeport Senior Living,Hospital/Healthcare,R2,Merrillville,2021-11-23,SR104
+C5048,Hometown Health System,Hospital/Healthcare,R3,Waukesha,2021-01-09,SR106
+C5049,Riverside Eatery,Independent Restaurant,R2,Gary,2015-10-23,SR104
+C5050,Second City Bistro,Independent Restaurant,R2,Crown Point,2021-05-01,SR104
+C5051,Elmwood Hotel,Hotel,R1,Schaumburg,2016-05-20,SR102
+C5052,Summit Fresh Market,Grocery/Deli,R1,NAPERVILLE,2024-06-25,SR100
+C5053,Union Inn & Suites,Hotel,R1,OAK PARK,2020-07-26,SR102
+C5054,Fulton Fresh Market,Grocery/Deli,R1,Chicago,2019-01-03,SR100
+C5055,Southport Taqueria,Independent Restaurant,R4,Springfield,2019-08-16,SR109
+C5056,Elmwood Restaurant Group  ,Rest. Group,R2,Merrillville,2019-03-25,SR105
+C5057,Prairie Hospitality Group,Restaurant Group,R3,Kenosha,2023-12-27,SR106
+C5058,Crescent Kitchen,Independent Restaurant,R1,Evanston,2020-03-22,SR102
+C5059,Logan Eatery,Independent Restaurant,R2,Gary,2019-12-28,SR104
+C5060,Bridgeport Catering,Caterer,R4,Bloomington,2020-03-14,SR108
+C5061,Pilsen Eatery,Independent Restaurant,R3,Kenosha,2016-05-05,SR107
+C5062,Oak Street Pizzeria,Independent Restaurant,R3,Kenosha,2017-05-03,SR107
+C5063,Elmwood Academy,School/University,R3,Kenosha,2021-04-26,SR106
+C5064,Wicker Deli,Grocery/Deli,R1,Cicero,2024-05-06,SR101
+C5065,Pilsen Lodge,Hotel,R1,Skokie,2017-03-16,SR100
+C5066,Bluebird Events & Catering  ,Caterer,R1,EVANSTON,2019-05-30,SR101
+C5067,Prairie Market,Grocery/Deli,R1,Evanston,2022-09-29,SR101
+C5068,Harbor Hospitality Group,Restaurant Group,R1,Naperville,2023-09-05,SR101
+C5069,Lakeside Kitchen,Independent Restaurant,R5,Grand Rapids,2017-06-14,SR111
+C5070,Crescent Hospitality Group,Restaurant Group,R1,Skokie,2024-04-15,SR100
+C5071,Northside Academy,School/University,R5,Kalamazoo,2024-07-05,SR111
+C5072,Oak Street Events & Catering,Caterer,R5,Kalamazoo,2016-02-10,SR111
+C5073,Fulton College Dining,School/University,R1,Aurora,2019-12-22,SR103
+C5074,Heritage Pizzeria,Independent Restaurant,R3,Kenosha,2023-06-30,SR106
+C5075,Hometown Kitchen,Independent Restaurant,R4,SPRINGFIELD,2015-11-27,SR109
+C5076,Lincoln Pizzeria,Independent Restaurant,R5,Muskegon,2015-04-22,SR111
+C5077,Bluebird Grill,Independent Restaurant,R4,Peoria,2016-03-05,SR108
+C5078,Maple Inn & Suites,Hotel,R1,Skokie,2021-11-24,SR103
+C5079,Heritage Kitchen,Independent Restaurant,R1,Naperville,2023-05-19,SR101
+C5080,Golden Market,Grocery/Deli,R4,Springfield,2019-10-14,SR109
+C5081,Union Pizzeria,Independent Restaurant,R1,Oak Park,2019-10-19,SR101
+C5082,Oak Street Eatery,Independent Restaurant,R1,Naperville,2015-03-04,SR103
+C5083,Lantern Hospitality Group,Restaurant Group,R1,Aurora,2021-06-29,SR100
+C5084,Heritage Lodge,Hotel,R3,Milwaukee,2018-12-30,SR106
+C5085,Maple Academy,School/University,R4,Peoria,2016-11-30,SR108
+C5086,Riverside Pizzeria,Independent Restaurant,R4,Springfield,2019-02-27,SR108
+C5087,Copper Tavern,Independent Restaurant,R5,Muskegon,2016-03-09,SR110
+C5088,Riverside Restaurant Group,Restaurant Group,R1,Chicago,2019-11-15,SR101
+C5089,Elmwood Eatery,Independent Restaurant,R5,Holland,2021-05-09,SR110
+C5090,Redline Eatery,Independent Restaurant,R5,Kalamazoo,2020-09-20,SR111
+C5091,Golden Grill,Independent Restaurant,R3,Milwaukee,2020-04-27,SR107
+C5092,Logan Restaurant Group,Restaurant Group,R1,Chicago,2015-01-23,SR103
+C5093,Maple Fresh Market,Grocery/Deli,R3,Waukesha,2024-04-04,SR107
+C5094,Second City Dining Co.,Restaurant Group,R4,Bloomington,2021-01-29,SR108
+C5095,Maple Kitchen,Independent Restaurant,R1,Oak Park,2022-07-09,SR100
+C5096,Northside Catering,Caterer,R4,Bloomington,2019-06-09,SR108
+C5097,Iron Medical Center,Hospital/Healthcare,R2,Crown Point,2017-03-25,SR104
+C5098,Prairie Senior Living,Hospital/Healthcare,R4,Peoria,2017-10-11,SR108
+C5099,Redline Dining Co.,Restaurant Group,R1,Skokie,2018-12-15,SR103
+C5100,Elmwood Events & Catering,Caterer,R3,Kenosha,2017-08-17,SR107
+C5101,Pilsen Taqueria,Independent Restaurant,R1,Naperville,2019-05-08,SR102
+C5102,Union Events & Catering,Caterer,R4,Springfield,2024-03-11,SR108
+C5103,Harbor Hotel,Hotel,R1,Chicago,2016-01-04,SR103
+C5104,Bluebird Catering,Caterer,R1,Evanston,2018-01-20,SR100
+C5105,Fulton Market,Grocery/Deli,R1,Schaumburg,2017-12-22,SR101
+C5106,Union Taqueria,Independent Restaurant,R1,Evanston,2020-07-13,SR101
+C5107,Crescent Tavern,Independent Restaurant,R1,Skokie,2016-06-21,SR103
+C5108,West Loop Bistro,Independent Restaurant,R1,Aurora,2022-12-18,SR101
+C5109,Summit Academy,School/University,R3,Racine,2015-07-06,SR106
+C5110,Southport Grill,Independent Restaurant,R2,Crown Point,2024-06-07,SR104
+C5111,West Loop Catering,Caterer,R4,Bloomington,2019-11-01,SR108
+C5112,Oak Street Kitchen,Independent Restaurant,R1,Evanston,2023-07-09,SR100
+C5113,Logan Lodge,Hotel,R1,Oak Park,2017-04-08,SR100
+C5114,Oak Street Diner,Independent Restaurant,R2,Crown Point,2015-01-25,SR104
+C5115,Golden Taqueria,Independent Restaurant,R2,Hammond,2018-07-31,SR104
+C5116,Pilsen Diner,Independent Restaurant,R4,Springfield,2018-11-15,SR108
+C5117,Oak Street Catering,Caterer,R1,Evanston,2023-11-11,SR101
+C5118,Midway Deli,Grocery/Deli,R5,Holland,2018-01-27,SR111
+C5119,Maple Medical Center,Hospital/Healthcare,R4,Champaign,2022-09-08,SR108
+C5120,Bridgeport Bistro,Independent Restaurant,R4,Champaign,2022-12-01,SR109
+C5121,Riverside Events & Catering,Caterer,R2,Crown Point,2020-02-20,SR105
+C5122,Wicker Pizzeria,Independent Restaurant,R2,Crown Point,2021-07-29,SR104
+C5123,Northside Bistro,Independent Restaurant,R1,Chicago,2021-02-16,SR101
+C5124,Summit Restaurant Group,Restaurant Group,R2,Crown Point,2020-10-15,SR104
+C5125,Fulton Bistro,Independent Restaurant,R1,Cicero,2017-03-24,SR101
+C5126,Union Grill,Independent Restaurant,R1,Schaumburg,2016-10-02,SR101
+C5127,Lincoln Market,Grocery/Deli,R1,Skokie,2021-07-28,SR100
+C5128,Golden Dining Co.,Restaurant Group,R5,Kalamazoo,2022-05-20,SR110
+C5129,Pilsen Catering,Caterer,R2,Merrillville,2018-02-23,SR104
+C5130,Bridgeport Events & Catering,Caterer,R3,Kenosha,2020-04-19,SR107
+C5131,Elmwood Tavern,Independent Restaurant,R3,Kenosha,2020-02-08,SR106
+C5132,Heritage Bistro,Indep. Restaurant,R4,SPRINGFIELD,2020-09-22,SR109
+C5133,Lakeside Bistro,Independent Restaurant,R4,Champaign,2021-08-28,SR108
+C5134,Heritage Tavern,Independent Restaurant,R3,Racine,2020-12-16,SR107
+C5135,Riverside Fresh Market,Grocery/Deli,R1,Evanston,2021-12-15,SR100
+C5136,Iron Market,Grocery/Deli,R1,Aurora,2016-08-15,SR102
+C5137,Prairie Catering  ,Caterer,R3,Waukesha,2022-09-04,SR107
+C5138,Lincoln Deli,Grocery/Deli,R4,BLOOMINGTON,2015-11-12,SR108
+C5139,Pilsen Tavern,Independent Restaurant,R3,Waukesha,2017-06-05,SR107
+C5140,Harbor Diner,Independent Restaurant,R3,Milwaukee,2016-03-28,SR106
+C5141,Bridgeport Restaurant Group,Restaurant Group,R3,Racine,2020-05-31,SR106
+C5142,Midway Academy,School/University,R2,Valparaiso,2023-10-26,SR105
+C5143,Hometown Inn & Suites,Hotel,R2,Hammond,2022-08-29,SR105
+C5144,Cedar Diner,Independent Restaurant,R5,Grand Rapids,2022-07-13,SR110
+C5145,Hometown Senior Living,Hospital/Healthcare,R1,Cicero,2016-02-14,SR103
+C5146,Lincoln Academy  ,School/University,R2,Merrillville,2016-12-29,SR105
+C5147,Redline Catering,Caterer,R1,Cicero,2021-06-07,SR103
+C5148,Oak Street Grill  ,Independent Restaurant,R4,Springfield,2022-08-15,SR108
+C5149,Lakeside Tavern,Independent Restaurant,R1,Skokie,2018-06-28,SR102
+C5150,Redline Market,Grocery/Deli,R1,Skokie,2020-04-26,SR101
+C5151,Southport School District,School/University,R2,Gary,2019-03-13,SR105
+C5152,Logan Deli,Grocery/Deli,R3,Racine,2018-06-16,SR107
+C5153,Pilsen Pizzeria,Independent Restaurant,R2,MERRILLVILLE,2022-06-24,SR105
+C5154,Iron Academy,School/University,R5,Holland,2023-02-10,SR111
+C5155,Pilsen Events & Catering,Caterer,R1,Oak Park,2024-02-12,SR103
+C5156,Southport Diner,Independent Restaurant,R3,Waukesha,2019-08-01,SR106
+C5157,Fulton Grill,Independent Restaurant,R3,Racine,2020-08-20,SR106
+C5158,Redline Events & Catering,Caterer,R2,Valparaiso,2019-02-18,SR105
+C5159,Bluebird Restaurant Group,Restaurant Group,R2,Hammond,2017-10-30,SR104
+C5160,Second City Deli,Grocery/Deli,R1,Oak Park,2022-01-27,SR102
+C5161,Pilsen Market,Grocery/Deli,R1,Schaumburg,2022-06-27,SR100
+C5162,Second City Taqueria,Independent Restaurant,R4,Peoria,2022-06-15,SR109
+C5163,Summit Market,Grocery/Deli,R1,Schaumburg,2023-01-08,SR101
+C5164,Prairie Medical Center,Hospital/Healthcare,R3,Kenosha,2020-12-21,SR106
+C5165,Lakeside Grill,Independent Restaurant,R5,Kalamazoo,2015-11-13,SR110
+C5166,Copper Kitchen,Independent Restaurant,R1,Aurora,2023-03-10,SR101
+C5167,Redline Fresh Market,Grocery/Deli,R1,Naperville,2022-06-11,SR101
+C5168,Copper Pizzeria,Independent Restaurant,R3,KENOSHA,2015-01-20,SR106
+C5169,Union Senior Living,Hospital/Healthcare,R1,Chicago,2015-01-20,SR102
+C5170,Bridgeport Pizzeria,Independent Restaurant,R4,Bloomington,2017-10-04,SR109
+C5171,Maple Catering,Caterer,R1,Evanston,2023-02-20,SR102
+C5172,Bluebird College Dining,School/University,R5,Muskegon,2023-02-09,SR111
+C5173,Bridgeport Eatery,Independent Restaurant,R4,Springfield,2021-09-09,SR109
+C5174,Summit Eatery,Independent Restaurant,R1,Oak Park,2021-09-06,SR103
+C5175,Logan Health System,Hospital/Healthcare,R4,Springfield,2019-11-01,SR108
+C5176,Oak Street Tavern,Independent Restaurant,R4,Champaign,2022-10-17,SR109
+C5177,Midway Tavern,Independent Restaurant,R1,Schaumburg,2022-01-15,SR100
+C5178,Bluebird Market,Grocery/Deli,R3,Racine,2022-03-07,SR106
+C5179,Prairie Health System,Hospital/Healthcare,R1,Skokie,2020-11-10,SR103
+C5180,Harbor Catering,Caterer,R1,Oak Park,2019-05-26,SR100
+C5181,Union Tavern  ,Independent Restaurant,R1,Cicero,2021-10-19,SR103
+C5182,Wicker Market,Grocery/Deli,R1,Naperville,2020-09-02,SR103
+C5183,Northside Health System,Hospital/Healthcare,R4,Springfield,2019-05-24,SR109
+C5184,Harbor Eatery,Independent Restaurant,R3,Waukesha,2017-05-19,SR107
+C5185,Maple Hotel,Hotel,R1,Cicero,2024-01-25,SR103
+C5186,Iron Senior Living,Hospital/Healthcare,R3,Milwaukee,2019-03-30,SR106
+C5187,Lantern Dining Co.,Restaurant Group,R1,Cicero,2024-01-06,SR103
+C5188,Copper Hospitality Group,Restaurant Group,R2,Merrillville,2016-03-28,SR104
+C5189,West Loop Pizzeria,Independent Restaurant,R1,Cicero,2016-02-22,SR101
+C5190,Fulton Dining Co.,Restaurant Group,R1,Naperville,2022-07-12,SR100
+C5191,Oak Street Restaurant Group,Restaurant Group,R3,WAUKESHA,2020-11-08,SR106
+C5192,Lakeside Pizzeria,Independent Restaurant,R2,Merrillville,2024-02-04,SR105
+C5193,Logan Bistro,Independent Restaurant,R1,Aurora,2020-08-21,SR101
+C5194,Elmwood Hospitality Group,Restaurant Group,R2,Crown Point,2016-06-01,SR105
+C5195,Fulton Hotel,Hotel,R3,Waukesha,2017-02-28,SR107
+C5196,Cedar Senior Living,Hospital/Healthcare,R3,Milwaukee,2020-08-17,SR107
+C5197,Riverside Catering,Caterer,R1,Schaumburg,2021-04-02,SR103
+C5198,Iron Restaurant Group,Restaurant Group,R2,HAMMOND,2020-01-28,SR104
+C5199,Harbor Restaurant Group,Restaurant Group,R1,SCHAUMBURG,2020-12-31,SR101
+C5200,Copper Catering,Caterer,R4,Peoria,2016-03-24,SR109
+C5201,Lincoln Hotel,Hotel,R2,Gary,2023-10-29,SR105
+C5202,Bridgeport Grill,Independent Restaurant,R4,Peoria,2019-12-23,SR109
+C5203,Prairie Tavern,Independent Restaurant,R2,Gary,2023-01-09,SR104
+C5204,Southport Catering,Caterer,R1,Naperville,2022-11-16,SR100
+C5205,Union Eatery  ,Independent Restaurant,R1,Evanston,2015-07-14,SR100
+C5206,Bluebird Diner,Independent Restaurant,R1,Skokie,2015-08-21,SR100
+C5207,Cedar Catering,Caterer,R1,Schaumburg,2022-02-12,SR100
+C5208,Cedar Pizzeria,Independent Restaurant,R4,Springfield,2021-10-18,SR109
+C5209,Wicker Tavern,Independent Restaurant,R3,Milwaukee,2016-06-21,SR106
+C5210,Cedar Fresh Market,Grocery/Deli,R1,Naperville,2015-09-26,SR102
+C5211,Hometown Diner,Independent Restaurant,R4,Peoria,2024-07-16,SR109
+C5212,Redline Academy,School/University,R3,Racine,2022-03-20,SR107
+C5213,Northside Taqueria,Independent Restaurant,R3,Milwaukee,2018-09-19,SR106
+C5214,Lantern Inn & Suites,Hotel,R1,Aurora,2019-06-22,SR100
+C5215,Hometown Events & Catering,Caterer,R1,Skokie,2016-07-27,SR103
+C5216,Midway Inn & Suites,Hotel,R5,Kalamazoo,2016-12-02,SR110
+C5217,Redline Bistro,Independent Restaurant,R5,Holland,2023-01-15,SR111
+C5218,Southport Eatery,Independent Restaurant,R2,Valparaiso,2018-02-24,SR105
+C5219,Cedar Restaurant Group,Restaurant Group,R4,Champaign,2015-10-08,SR108
+C5220,Lantern Tavern,Independent Restaurant,R2,Gary,2017-12-08,SR105
+C5221,Harbor Grill,Independent Restaurant,R5,Muskegon,2016-09-25,SR110
+C5222,Lantern Taqueria,Independent Restaurant,R1,Oak Park,2016-11-11,SR100
+C5223,Lincoln Restaurant Group,Restaurant Group,R3,Racine,2019-09-12,SR107
+C5224,Second City Tavern,Independent Restaurant,R1,Evanston,2023-01-21,SR103
+C5225,Redline Health System,Hospital/Healthcare,R3,Kenosha,2023-01-31,SR106
+C5226,Wicker School District,School/University,R3,Waukesha,2020-11-18,SR107
+C5227,Bluebird Hotel,Hotel,R1,Evanston,2015-07-23,SR103
+C5228,Iron Catering,Caterer,R1,Schaumburg,2018-03-04,SR103
+C5229,Copper Events & Catering,Caterer,R4,Springfield,2019-08-17,SR108
+C5230,Logan Fresh Market,Grocery/Deli,R2,Merrillville,2017-12-03,SR104
+C5231,Lincoln Eatery,Independent Restaurant,R4,Champaign,2020-08-16,SR109
+C5232,West Loop Inn & Suites,Hotel,R2,Hammond,2019-12-15,SR105
+C5233,Hometown Fresh Market,Grocery/Deli,R2,Hammond,2016-01-03,SR105
+C5234,Harbor Kitchen,Independent Restaurant,R3,Kenosha,2015-01-30,SR106
+C5235,Golden Tavern,Independent Restaurant,R1,Aurora,2018-03-31,SR100
+C5236,Cedar Dining Co.,Restaurant Group,R5,Holland,2019-01-10,SR111
+C5237,Hometown Tavern,Independent Restaurant,R3,Racine,2017-12-12,SR106
+C5238,Prairie School District,School/University,R1,Oak Park,2020-01-15,SR101
+C5239,West Loop Medical Center,Hospital/Healthcare,R5,Kalamazoo,2021-01-27,SR111
+C5240,West Loop Academy,School/University,R2,Hammond,2021-03-28,SR105
+C5241,Hometown Market,Grocery/Deli,R3,Racine,2023-08-28,SR106
+C5242,Hometown Catering,Caterer,R4,Springfield,2015-09-17,SR108
+C5243,Pilsen Hospitality Group,Restaurant Group,R4,Bloomington,2016-02-04,SR108
+C5244,Fulton Health System,Hospital/Healthcare,R3,Kenosha,2018-12-29,SR107
+C5245,Bluebird Eatery,Independent Restaurant,R5,Holland,2024-04-17,SR110
+C5246,Lantern Academy,School/University,R4,Springfield,2021-02-07,SR109
+C5247,West Loop Grill,Independent Restaurant,R1,Evanston,2018-04-27,SR101
+C5248,Bridgeport Hospitality Group,Restaurant Group,R4,Bloomington,2023-05-21,SR109
+C5249,Oak Street Fresh Market,Grocery/Deli,R2,GARY,2024-06-11,SR105
+C5250,Wicker Events & Catering,Caterer,R2,Merrillville,2021-03-24,SR105
+C5251,West Loop Events & Catering,Caterer,R3,Waukesha,2015-10-24,SR107
+C5252,Heritage Catering,Caterer,R5,Muskegon,2017-04-14,SR111
+C5253,Midway Bistro,Independent Restaurant,R1,Schaumburg,2015-05-10,SR101
+C5254,Summit Medical Center,Hospital/Healthcare,R1,Evanston,2022-04-23,SR102
+C5255,Heritage Events & Catering,Caterer,R4,Champaign,2021-11-01,SR109
+C5256,Crescent Events & Catering,Caterer,R4,Champaign,2018-08-29,SR109
+C5257,Southport Health System,Hospital/Healthcare,R1,Chicago,2015-06-21,SR100
+C5258,Pilsen Grill,Independent Restaurant,R4,Champaign,2024-02-14,SR109
+C5259,Cedar Grill,Independent Restaurant,R3,Kenosha,2019-12-07,SR106
+C5260,Midway Events & Catering,Caterer,R2,Gary,2020-11-07,SR105
+C5261,Lantern Catering,Caterer,R1,Skokie,2021-06-08,SR102
+C5262,Summit Catering,Caterer,R1,Aurora,2023-08-25,SR101
+C5263,Oak Street Taqueria,Independent Restaurant,R3,Milwaukee,2017-11-12,SR107
+C5264,Southport Events & Catering,Caterer,R1,Aurora,2023-04-21,SR103
+C5265,Elmwood Diner,Independent Restaurant,R1,Aurora,2016-10-18,SR100
+C5266,Midway Catering,Caterer,R3,Kenosha,2020-02-11,SR106
+C5267,West Loop Dining Co.,Restaurant Group,R1,Chicago,2024-07-27,SR100
+C5268,Fulton Inn & Suites,Hotel,R1,Evanston,2016-10-15,SR103
+C5269,Prairie Hotel,Hotel,R3,Waukesha,2024-07-23,SR107
+C5270,Copper Fresh Market,Grocery/Deli,R2,Merrillville,2017-02-07,SR105
+C5271,Bluebird Bistro,Indep. Restaurant,R1,Cicero,2019-10-06,SR103
+C5272,Golden Bistro,Independent Restaurant,R1,Evanston,2020-04-25,SR103
+C5273,Oak Street Health System,Hospital/Healthcare,R2,Merrillville,2015-03-03,SR104
+C5274,Elmwood Dining Co.,Restaurant Group,R1,Schaumburg,2023-07-03,SR100
+C5275,Summit Hotel,Hotel,R4,Champaign,2024-03-11,SR108
+C5276,Logan Events & Catering  ,Caterer,R1,Aurora,2018-09-14,SR101
+C5277,Lantern Market,Grocery/Deli,R1,Aurora,2017-04-02,SR102
+C5278,Fulton School District,School/University,R2,Merrillville,2017-01-24,SR104
+C5279,Harbor Pizzeria,Independent Restaurant,R3,Waukesha,2020-08-29,SR106
+C5280,Elmwood Taqueria  ,Independent Restaurant,R1,NAPERVILLE,2016-09-12,SR100
+C5281,Prairie Pizzeria,Independent Restaurant,R4,Peoria,2016-06-28,SR108
+C5282,Harbor Events & Catering,Caterer,R3,Waukesha,2020-08-09,SR106
+C5283,Heritage Dining Co.,Restaurant Group,R2,Hammond,2022-07-06,SR104
+C5284,Copper Medical Center,Hospital/Healthcare,R5,KALAMAZOO,2017-06-13,SR111
+C5285,Second City Events & Catering,Caterer,R5,Grand Rapids,2022-10-22,SR110
+C5286,Hometown Lodge,Hotel,R1,Aurora,2018-01-23,SR101
+C5287,Lakeside Fresh Market,Grocery/Deli,R3,Kenosha,2015-12-23,SR106
+C5288,Union Hospitality Group,Restaurant Group,R2,Valparaiso,2016-05-03,SR105
+C5289,Heritage Diner,Independent Restaurant,R5,Holland,2015-05-06,SR111
+C5290,Southport Pizzeria,Independent Restaurant,R1,Evanston,2020-06-25,SR102
+C5291,Lantern Restaurant Group,Restaurant Group,R2,Crown Point,2015-08-18,SR105
+C5292,Iron Taqueria,Independent Restaurant,R1,Aurora,2023-03-01,SR102
+C5293,Southport Kitchen,Independent Restaurant,R2,Hammond,2016-01-26,SR105
+C5294,Midway Diner,Independent Restaurant,R3,Kenosha,2024-05-12,SR106
+C5295,Logan Hospitality Group  ,Restaurant Group,R2,Valparaiso,2017-11-23,SR105
+C5296,Wicker Diner,Indep. Restaurant,R1,Chicago,2018-12-22,SR100
+C5297,Maple Restaurant Group,Restaurant Group,R1,Chicago,2023-04-08,SR101
+C5298,West Loop Taqueria,Independent Restaurant,R2,Merrillville,2018-12-06,SR105
+C5299,Prairie Events & Catering,Caterer,R4,Bloomington,2019-02-18,SR108
+C5300,Riverside Bistro,Independent Restaurant,R1,Evanston,2020-09-22,SR100
+C5301,Southport Academy,School/University,R2,Hammond,2017-04-28,SR105
+C5302,Copper Bistro,Independent Restaurant,R1,Naperville,2017-05-14,SR100
+C5303,Bluebird Dining Co.,Restaurant Group,R1,Schaumburg,2023-12-01,SR100
+C5304,Crescent Eatery,Independent Restaurant,R3,Racine,2020-10-13,SR107
+C5305,Pilsen Fresh Market,Grocery/Deli,R1,Oak Park,2015-06-15,SR102
+C5306,Northside Eatery,Independent Restaurant,R1,Skokie,2022-10-28,SR100
+C5307,Cedar Health System,Hospital/Healthcare,R1,Cicero,2015-04-20,SR103
+C5308,Wicker Inn & Suites,Hotel,R1,Aurora,2017-03-18,SR103
+C5309,Lantern Diner,Independent Restaurant,R4,Bloomington,2020-08-27,SR108
+C5310,Iron Health System,Hospital/Healthcare,R4,Peoria,2019-05-22,SR108
+C5311,Cedar Events & Catering,Caterer,R4,Champaign,2016-07-23,SR108
+C5312,Iron Deli,Grocery/Deli,R1,Chicago,2020-05-03,SR100
+C5313,Bridgeport Fresh Market,Grocery/Deli,R3,Milwaukee,2019-05-10,SR106
+C5314,Summit Events & Catering,Caterer,R1,Naperville,2016-06-03,SR100
+C5315,Golden Senior Living,Hospital/Healthcare,R4,CHAMPAIGN,2018-01-19,SR108
+C5316,Bridgeport Dining Co.,Restaurant Group,R1,Oak Park,2021-02-02,SR101
+C5317,Midway Kitchen,Independent Restaurant,R1,Chicago,2018-01-16,SR101
+C5318,West Loop Eatery,Independent Restaurant,R1,Chicago,2021-09-23,SR100
+C5319,Cedar School District,School/University,R3,Kenosha,2016-08-02,SR106
+C5320,Northside Diner  ,Independent Restaurant,R4,Champaign,2016-03-10,SR108
+C5321,Logan Pizzeria,Independent Restaurant,R3,Kenosha,2023-07-13,SR107
+C5322,Golden College Dining,School/University,R1,Skokie,2015-07-30,SR100
+C5323,Second City Fresh Market,Grocery/Deli,R2,Merrillville,2016-08-28,SR105
+C5324,Summit Bistro,Independent Restaurant,R1,Schaumburg,2020-04-20,SR102
+C5325,Logan Taqueria,Independent Restaurant,R3,Milwaukee,2024-07-07,SR107
+C5326,Union Catering,Caterer,R5,Muskegon,2018-12-23,SR111
+C5327,Northside Pizzeria,Independent Restaurant,R3,Milwaukee,2020-02-20,SR106
+C5328,Oak Street Lodge,Hotel,R1,Evanston,2016-04-07,SR102
+C5329,Elmwood Catering,Caterer,R3,Milwaukee,2017-10-28,SR106
+C5330,Elmwood Lodge,Hotel,R1,Schaumburg,2016-06-30,SR100
+C5331,Midway Pizzeria,Independent Restaurant,R4,Peoria,2017-03-20,SR108
+C5332,Union Hotel,Hotel,R3,Milwaukee,2020-01-13,SR106
+C5333,West Loop School District,School/University,R3,Milwaukee,2018-10-18,SR106
+C5334,Hometown College Dining,School/University,R3,Kenosha,2021-11-16,SR106
+C5335,Lincoln Dining Co.,Restaurant Group,R2,Crown Point,2024-06-03,SR105
+C5336,Lantern Events & Catering,Caterer,R1,Evanston,2018-06-08,SR102
+C5337,Fulton Taqueria,Independent Restaurant,R2,Gary,2019-12-26,SR104
+C5338,Golden Kitchen,Independent Restaurant,R5,MUSKEGON,2016-07-14,SR111
+C5339,Northside Fresh Market,Grocery/Deli,R1,Naperville,2021-07-17,SR100
+C5340,Midway Grill,Independent Restaurant,R1,Chicago,2023-10-25,SR101
+C5341,Heritage Taqueria,Independent Restaurant,R5,Kalamazoo,2023-03-26,SR111
+C5342,Golden Academy,School/University,R2,Hammond,2021-03-05,SR105
+C5343,Summit Hospitality Group,Restaurant Group,R1,Skokie,2023-06-02,SR101
+C5344,Bridgeport College Dining,School/University,R4,Peoria,2020-02-12,SR108
+C5345,Oak Street Bistro,Independent Restaurant,R3,Kenosha,2022-07-03,SR106
+C5346,Fulton Events & Catering,Caterer,R5,Kalamazoo,2023-04-03,SR110
+C5347,Hometown Grill,Independent Restaurant,R1,Oak Park,2022-08-25,SR100
+C5348,Lakeside Taqueria,Independent Restaurant,R4,Bloomington,2017-01-06,SR109
+C5349,Lakeside College Dining,School/University,R1,SCHAUMBURG,2024-05-20,SR102
+C5350,Maple Bistro,Independent Restaurant,R5,Muskegon,2021-01-02,SR110
+C5351,Second City Hotel,Hotel,R3,Milwaukee,2018-01-21,SR107
+C5352,Copper Health System,Hospital/Healthcare,R2,Merrillville,2020-07-08,SR104
+C5353,Second City Kitchen,Independent Restaurant,R2,Valparaiso,2023-12-18,SR104
+C5354,Maple Eatery,Independent Restaurant,R1,Cicero,2022-05-15,SR101
+C5355,Hometown School District,School/University,R1,Aurora,2016-04-03,SR103
+C5356,Northside Market,Grocery/Deli,R1,Skokie,2021-12-20,SR102
+C5357,Southport College Dining  ,School/University,R1,Evanston,2017-05-02,SR103
+C5358,Bluebird Pizzeria,Independent Restaurant,R5,Grand Rapids,2019-08-01,SR110
+C5359,Midway Lodge,Hotel,R1,Naperville,2016-12-08,SR103
+C5360,Redline Taqueria,Independent Restaurant,R2,Valparaiso,2016-03-23,SR104
+C5361,Logan Market,Grocery/Deli,R2,Merrillville,2015-06-08,SR104
+C5362,Redline Restaurant Group,Restaurant Group,R3,Racine,2023-06-20,SR107
+C5363,Lincoln Bistro,Independent Restaurant,R1,Aurora,2016-01-23,SR100
+C5364,Lincoln Catering,Caterer,R4,Bloomington,2022-05-28,SR109
+C5365,Union Fresh Market,Grocery/Deli,R5,Muskegon,2023-08-22,SR111
+C5366,Prairie Kitchen,Independent Restaurant,R5,Holland,2018-12-06,SR111
+C5367,Lantern Lodge,Hotel,R1,Skokie,2016-04-27,SR101
+C5368,Lakeside Catering,Caterer,R1,SCHAUMBURG,2022-02-13,SR100
+C5369,Lincoln Grill,Independent Restaurant,R2,Hammond,2020-11-28,SR105
+C5370,Lantern Bistro,Independent Restaurant,R1,Cicero,2016-01-09,SR102
+C5371,Northside College Dining,School/University,R3,Milwaukee,2023-03-01,SR107
+C5372,Iron Pizzeria,Independent Restaurant,R1,Aurora,2023-01-02,SR102
+C5373,Harbor College Dining,School/University,R4,Champaign,2018-11-17,SR108
+C5374,West Loop Fresh Market,Grocery/Deli,R1,Skokie,2018-11-30,SR100
+C5375,Bridgeport Kitchen,Independent Restaurant,R5,Grand Rapids,2016-02-27,SR111
+C5376,Golden Catering,Caterer,R1,Skokie,2020-12-01,SR100
+C5377,Redline Hospitality Group,Restaurant Group,R2,Merrillville,2016-09-20,SR105
+C5378,Second City Academy,School/University,R1,Schaumburg,2016-04-14,SR100
+C5379,Iron Grill,Independent Restaurant,R4,Peoria,2023-02-27,SR109
+C5380,Bridgeport Diner,Independent Restaurant,R2,Merrillville,2018-03-11,SR105
+C5381,Harbor Market,Grocery/Deli,R1,Chicago,2017-05-06,SR101
+C5382,Copper Academy,School/University,R5,Muskegon,2018-02-23,SR110
+C5383,Riverside Hotel,Hotel,R2,Valparaiso,2019-12-17,SR105
+C5384,Prairie Dining Co.,Rest. Group,R2,Crown Point,2018-06-18,SR104
+C5385,Heritage Deli,Grocery/Deli,R1,Evanston,2016-04-06,SR102
+C5386,Maple Deli,Grocery/Deli,R2,Gary,2016-05-28,SR105
+C5387,Bluebird Kitchen,Independent Restaurant,R3,Racine,2016-07-26,SR107
+C5388,West Loop Kitchen,Independent Restaurant,R1,Cicero,2018-08-23,SR100
+C5389,Summit Taqueria,Independent Restaurant,R5,Grand Rapids,2016-02-21,SR111
+C5390,Prairie Restaurant Group,Restaurant Group,R3,Waukesha,2024-04-21,SR106
+C5391,Prairie Taqueria,Independent Restaurant,R2,Hammond,2018-11-02,SR105
+C5392,Second City Catering,Caterer,R5,HOLLAND,2022-10-30,SR111
+C5393,Southport Bistro,Independent Restaurant,R2,Gary,2022-02-08,SR104
+C5394,Lincoln Kitchen,Indep. Restaurant,R5,Holland,2020-05-11,SR110
+C5395,Lincoln Events & Catering,Caterer,R1,Evanston,2015-06-25,SR100
+C5396,Midway College Dining,School/University,R3,Waukesha,2021-02-08,SR107
+C5397,Bluebird Fresh Market,Grocery/Deli,R1,Chicago,2022-08-09,SR100
+C5398,Bluebird Senior Living,Hospital/Healthcare,R2,Hammond,2022-03-23,SR104
+C5399,Hometown Taqueria,Independent Restaurant,R5,Grand Rapids,2015-01-09,SR111
+C5400,Riverside Hospitality Group,Restaurant Group,R1,Naperville,2022-08-24,SR102
+C5401,Wicker Health System,Hospital/Healthcare,R1,Aurora,2016-03-27,SR102
+C5402,Southport Market,Grocery/Deli,R2,Merrillville,2021-03-16,SR105
+C5403,Maple Dining Co.,Restaurant Group,R3,Racine,2018-01-22,SR107
+C5404,Northside Inn & Suites,Hotel,R3,Milwaukee,2015-09-12,SR107
+C5405,Fulton Pizzeria,Independent Restaurant,R5,HOLLAND,2019-07-13,SR110
+C5406,Oak Street Senior Living,Hospital/Healthcare,R1,Oak Park,2024-06-13,SR103
+C5407,Union Restaurant Group,Restaurant Group,R1,Schaumburg,2023-02-09,SR103
+C5408,Pilsen School District,School/University,R5,Kalamazoo,2017-08-30,SR111
+C5409,Southport Senior Living,Hospital/Healthcare,R2,Gary,2024-07-03,SR105
+C5410,Pilsen Deli,Grocery/Deli,R1,Skokie,2021-11-05,SR103
+C5411,Lakeside Restaurant Group,Restaurant Group,R4,Champaign,2018-07-06,SR108
+C5412,Riverside College Dining,School/University,R3,Racine,2020-08-25,SR107
+C5413,Golden Hospitality Group,Restaurant Group,R5,Kalamazoo,2019-11-17,SR111
+C5414,Union Kitchen,Independent Restaurant,R3,Racine,2021-09-03,SR106
+C5415,Lantern Kitchen,Independent Restaurant,R2,Crown Point,2018-11-29,SR105
+C5416,Summit Senior Living,Hospital/Healthcare,R1,Chicago,2016-04-04,SR101
+C5417,Crescent Bistro,Independent Restaurant,R3,Waukesha,2021-04-13,SR107
+C5418,Union Bistro,Independent Restaurant,R1,Oak Park,2016-07-22,SR103
+C5419,Maple Pizzeria,Independent Restaurant,R4,Champaign,2022-06-16,SR108
